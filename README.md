@@ -15,6 +15,11 @@ The dashboard is built using the following data tables:
 * **TEAM\_LEADERS**: Contains team leader names and associated agents.
 * **All Measures**: This table contains DAX-calculated KPIs used across the dashboard (note: error currently exists likely due to naming with special characters).
 
+### 📌 Dataset Source:
+The dataset used in this analysis is publicly available and was borrowed from **Kaggle** for educational and analytical purposes.
+
+
+
 ### 📈 Key Metrics & Visuals
 
 #### ✅ **Top Summary KPIs** *(in “Top 10” Tab)*
